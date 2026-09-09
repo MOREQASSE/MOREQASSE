@@ -199,7 +199,7 @@
 <div align="center">
   <!-- GitHub Profile Trophies -->
   <a href="https://github.com/MOREQASSE">
-    <img src="https://github-profile-trophy.vercel.app/?username=MOREQASSE&theme=tokyonight&no-frame=true&no-bg=true&margin_w=6&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-xi.vercel.app/?username=MOREQASSE&theme=tokyonight&no-frame=true&no-bg=true&margin_w=6&column=7" alt="GitHub Trophies" />
   </a>
 
   <br/><br/>
@@ -208,7 +208,7 @@
   <table border="0" width="100%">
     <tr>
       <td width="50%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=MOREQASSE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" width="98%" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api?username=MOREQASSE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" width="98%" />
       </td>
       <td width="50%" align="center" style="border: none;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOREQASSE&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" alt="GitHub Streak" width="98%" />
@@ -217,7 +217,7 @@
     <tr>
       <td colspan="2" align="center" style="border: none;">
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOREQASSE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="60%" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MOREQASSE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="60%" />
       </td>
     </tr>
   </table>
@@ -226,7 +226,7 @@
 
   <!-- Interactive Activity Graph -->
   <a href="https://github.com/MOREQASSE">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOREQASSE&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f43f5e" alt="Mohammed Reqasse Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph-two.vercel.app/graph?username=MOREQASSE&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f43f5e" alt="Mohammed Reqasse Activity Graph" width="95%" />
   </a>
 </div>
 
