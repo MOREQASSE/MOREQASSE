@@ -1,6 +1,10 @@
 <div align="center">
   <!-- Dynamic Top Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20,24&height=180&section=header&text=Mohammed%20Reqasse&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Network%20%26%20Telecommunications%20Engineer%20%7C%20Cybersecurity%20%7C%20AI%20%26%20Web%20Architect&descFontSize=18&descAlignY=62&descAlign=50" alt="Mohammed Reqasse Banner" width="100%" />
+  <a href="https://moreqasse.github.io/MyCV/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0284c7,100:38bdf8&height=200&section=header&text=Mohammed%20Reqasse&fontSize=48&fontColor=ffffff&animation=twinkling" alt="Mohammed Reqasse Banner" width="100%" />
+  </a>
+
+  <br/><br/>
 
   <!-- Personal Logo -->
   <a href="https://moreqasse.github.io/MyCV/">
@@ -258,5 +262,5 @@
   </p>
 
   <!-- Waving Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,9,20,24&height=100&section=footer" alt="Footer Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0284c7,100:38bdf8&height=100&section=footer" alt="Footer Banner" width="100%" />
 </div>
